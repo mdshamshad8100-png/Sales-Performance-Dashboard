@@ -16,11 +16,11 @@ Data Visualization — interactive charts, slicers, maps, and tables
 Data Model
 
 The dashboard is built on 5 related tables:
-- `Orders` — order-level data (year, order details)
-- `OrderItems` — line-item sales/profit data (fact table with core measures)
-- `Products` — product & category information
-- `Customers` — customer details & segments
-- `Locations` — region information
+ Orders — order-level data (year, order details)
+ OrderItems — line-item sales/profit data (fact table with core measures)
+ Products — product & category information
+ Customers — customer details & segments
+ Locations — region information
 
 Report Pages
 
